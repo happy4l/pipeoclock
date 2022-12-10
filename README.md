@@ -1,2 +1,2 @@
 # pipeoclock
-Clothing Brang
+Clothing Brand
